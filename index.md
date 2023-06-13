@@ -7,3 +7,6 @@
 ```
 const universe = a + b;
 ```
+- [ ] The size of the universe terrifies me
+- [ ] The size of the universe makes me happy
+- [ ] I just don't think about any of this
